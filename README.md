@@ -2,22 +2,25 @@
 
 **[Higor Almeida Cordeiro Nogueira](https://www.researchgate.net/profile/Higor-Cordeiro-Nogueira), [Emanuell de Souza Rodrigues](https://www.researchgate.net/profile/Emanuell-Rodrigues-De-Souza), [Victor dos Santos Lopes](https://www.linkedin.com/in/victor-lopes-880604377?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=ios_app), [Enrique Medina-Acosta](https://www.researchgate.net/profile/Enrique-Medina-Acosta)**
 
+**Multi-omic OncoMetabolismGPS** is an interactive Shiny application developed as part of the research associated with the pre-print “[TITLE OF YOUR PAPER]”, available at: https://xxxx
+.
+
+The app provides an integrative and user-friendly interface for exploring multi-omic metabolic signatures across cancer types, enabling dynamic visualization of meaningful interactions, phenotypic associations, survival metrics, and regulatory circuitries derived directly from the analyses presented in the paper. Below, we include the full abstract of the manuscript followed by the graphical abstract.
+
 <p align="center">
   <img src="https://github.com/CancerRCD/CancerRCDShiny/blob/bbb0be5495097c0bedfc711565c8279061b50306/www/Figure%203_HRF.png" width="1000">
 </p>
-
-**Multi-omic-Oncometabolism-GPS** is an R Shiny application designed for researchers to explore results from Omic layer- and metabolic pathway-specific signatures for pan-cancer biomarker and therapeutic target discovery.   
-
+ 
 ---
 
-## 🔗 Useful Links
+## 🔗 Link to Multi-omic-Oncometabolism-GPS
 - 🔥 [Online App](https://oncometabolismgps.shinyapps.io/Multi-omic-oncometabolism-GPS/)  
+
+The schematic below represents the conceptual framework used to guide the development of this application.
 
 <p align="center">
   <img src="https://github.com/CancerRCD/CancerRCDShiny/blob/bbb0be5495097c0bedfc711565c8279061b50306/www/Figure%203_HRF.png" width="1000">
 </p>
-
-**Multi-omic-Oncometabolism-GPS** is an R Shiny application designed for researchers to explore results from Omic layer- and metabolic pathway-specific signatures for pan-cancer biomarker and therapeutic target discovery. 
 
 ---
 
